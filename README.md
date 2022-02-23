@@ -1,6 +1,6 @@
-# # Eluvio Internship Assessment
+# Eluvio Internship Assessment - Option 2 - Applications
 
-This is my submission for Eluvio Internship Assessment. I have chosen the Option 2 - Applications challenge.
+This is my submission for Eluvio Internship Assessment.
 
 ### Prerequisites
 - Python 3.x
@@ -23,6 +23,8 @@ python execute.py
 ```
 
 ### Parameters you can play with for random ids generation
+Note: I have used numbers as IDs while generating the batches to test the program since it is easier to generate random numbers and does not need additional code for it. You can also pass non numeric IDs to the process_batch function and it should work without any issues.
+
 All the parameters are present in the main function.
 - batch_size - Used to generate batches of ids.
 - max_id - Max possible id which can be generated. 
